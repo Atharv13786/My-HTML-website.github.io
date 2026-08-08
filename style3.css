@@ -1,0 +1,16 @@
+*{
+    text-align: center;
+    background-color: brown;
+}
+h1,h3{
+    text-decoration: underline;
+}
+#login{
+    text-decoration: line-through;
+}
+h1,button,p{
+    text-decoration: line-through;
+}
+upvote{
+    text-align: justify;
+}
