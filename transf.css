@@ -1,0 +1,14 @@
+div{
+    height: 100px;
+    width: 400px;
+    background:solid;
+    background-color: aqua;
+    transform: rotate(145deg);
+    transform: scale(4,2);
+    transform: translate(400px,400px);
+    transform: translateX(-100px);
+    transform: skew(20deg);
+    /* transform: rotate(60deg) skew(40deg);
+ */
+ box-shadow: 2px 2px 10px red;
+}
