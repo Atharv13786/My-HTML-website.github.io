@@ -1,0 +1,10 @@
+div{
+    background-color: aqua;
+    height: 1000px;
+    width: 2000px;
+    background-image: url("ironman.jpeg");
+    /* background-size: contain ; */
+    /* background-size: cover ; */
+    background-size: auto ;
+    color: white;
+}
